@@ -3,9 +3,11 @@
 ## 🚀 Linguagens de Programação
 
 ### Front-end
-- **HTML5** ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)
-- **CSS3** ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)
-- **JavaScript** ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
+<div style="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+</div>
 
 ### Back-end
 - **C++** ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg)
