@@ -38,5 +38,7 @@ Here is a bit about what I do and the technologies I use.
 
 ## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Email](mailto:your-email@example.com)
+<div>
+  <a href = "mailto: contato@leehxd.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leticiajm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
